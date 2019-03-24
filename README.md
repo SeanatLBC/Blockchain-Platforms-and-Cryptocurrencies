@@ -24,7 +24,7 @@ Among some of the top Distributed Ledger Technology Platforms are the following:
 
 Among some of the top Permissioned DLT Platforms are the following:
 
- *  The Linux Foundation Projects:
+ * The Linux Foundation Projects:
    *  Hyperledger Fabric:  https://www.hyperledger.org/projects/fabric
    *  Hyperledger Sawtooth:  https://www.hyperledger.org/projects/sawtooth
    *  Hyperledger Iroha:  https://www.hyperledger.org/projects/iroha
