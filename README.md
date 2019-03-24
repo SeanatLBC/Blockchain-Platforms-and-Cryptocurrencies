@@ -31,6 +31,16 @@ Among some of the top Permissioned DLT Platforms are the following:
    *  Hyperledger indy:  https://www.hyperledger.org/projects/hyperledger-indy
    *  Hyperledger Quilt:  https://www.hyperledger.org/projects/quilt
    
+ * Corda (Azure):  https://www.corda.net/
+ 
+ * IBM Blockchain:  https://www.ibm.com/blockchain
+ 
+ * Quorum | JP Morgan:  
+ 
+ * Multichain:  https://www.multichain.com/
+ 
+ 
+   
   
 
 UTILITIES AND BLOCK EXPLORERS
