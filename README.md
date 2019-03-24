@@ -58,17 +58,6 @@ Main site - https://lists.hyperledger.org/g/main
 INTERLEDGER Main Site - https://interledger.org/
  *  Interledger Blog - https://medium.com/interledger-blog 
 
-
-BITCOIN
-
- *  See THE STATE OF BITCOIN report attached in branch Hello_World - as of Decemer 2018
-
- *  LIGHTNING NETWORK
-    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
- 
- *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
- 
-   * Rootstock (RSK):  https://www.rsk.co/  Laying the Foundation for the Internet of Value
     
 TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS 
 
