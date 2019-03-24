@@ -14,7 +14,7 @@ Among some of the top Blockchain Platfroms are the following:
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
 
-Among some of the top Distributed Ledger Technology Plarforms are the following:
+Among some of the top Distributed Ledger Technology Platforms are the following:
 
 *  IOTA - The Internet of Things, Redefining Trust, Value and Ownership:  https://www.iota.org/
 
@@ -22,6 +22,16 @@ Among some of the top Distributed Ledger Technology Plarforms are the following:
 
 *  HOLOCHAIN - What comes after Blockchain:  https://holochain.org/
 
+Among some of the top Permissioned DLT Platforms are the following:
+
+ *  The Linux Foundation Projects:
+   *  Hyperledger Fabric:  https://www.hyperledger.org/projects/fabric
+   *  Hyperledger Sawtooth:  https://www.hyperledger.org/projects/sawtooth
+   *  Hyperledger Iroha:  https://www.hyperledger.org/projects/iroha
+   *  Hyperledger indy:  https://www.hyperledger.org/projects/hyperledger-indy
+   *  Hyperledger Quilt:  https://www.hyperledger.org/projects/quilt
+   
+  
 
 UTILITIES AND BLOCK EXPLORERS
 
