@@ -35,7 +35,7 @@ Among some of the top Permissioned DLT Platforms are the following:
  
  * IBM Blockchain:  https://www.ibm.com/blockchain
  
- * Quorum | JP Morgan:  
+ * Quorum | JP Morgan:  https://www.jpmorgan.com/global/Quorum
  
  * Multichain:  https://www.multichain.com/
  
