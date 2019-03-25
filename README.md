@@ -73,6 +73,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   
   *  Block Explorer:  https://www.blockchain.com/explorer
   *  Block Cypher:  https://live.blockcypher.com/btc/ 
+  *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/
 
   NEO  
   *  NEOScan:  https://neoscan.io/
