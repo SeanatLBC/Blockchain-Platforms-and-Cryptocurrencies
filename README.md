@@ -88,4 +88,4 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
 
   EOS 
   *  https://eostracker.io/ 
-  
+  *  VIDEO - The Difference Between EOS and Ethereum:  https://www.youtube.com/watch?v=QxKqKVsLYLA&t=193s
