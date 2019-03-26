@@ -90,3 +90,4 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  EOS Explorer:  https://eostracker.io/ 
   *  VIDEO - The Difference Between EOS and Ethereum:  https://www.youtube.com/watch?v=QxKqKVsLYLA&t=193s
   *  EOS Beginners - Anatomy of an EOS Account:  https://medium.com/@eosgo/eos-beginners-anatomy-of-an-eos-account-8bfff3e1716
+  *  Scatter Github (download and patches):  https://github.com/GetScatter/ScatterDesktop/releases/
