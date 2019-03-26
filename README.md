@@ -47,8 +47,8 @@ UTILITIES AND BLOCK EXPLORERS
 
 Wallets:
 
-  *  Ledger Nano S:  https://www.ledger.com/products/ledger-nano-s
-  *  Trezor:  https://trezor.io/
+  *  Ledger Nano S (Recommended):  https://www.ledger.com/products/ledger-nano-s
+  *  Trezor (Recommended):  https://trezor.io/
   
   *  Cryptocurreny Wallets Wiki:  https://en.bitcoinwiki.org/wiki/Cryptocurrency_wallets_list
 
