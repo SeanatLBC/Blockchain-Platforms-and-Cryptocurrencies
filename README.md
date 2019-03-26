@@ -37,9 +37,6 @@ Among some of the top Permissioned DLT Platforms are the following:
  
  * Multichain:  https://www.multichain.com/
  
- 
-   
-  
 
 UTILITIES AND BLOCK EXPLORERS
 
@@ -56,11 +53,8 @@ Wallets:
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
 
-
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
-
-
 
 INTERLEDGER Main Site - https://interledger.org/
  *  Interledger Blog - https://medium.com/interledger-blog 
@@ -86,6 +80,10 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   NEO  
   *  NEO Site: https://neo.org/ 
   *  NEOScan:  https://neoscan.io/
+  
+  Icon Network (ICX)
+  *  Main Site:  https://icon.foundation/?lang=en
+  *  VIDEO - https://www.youtube.com/watch?v=HwKslVTk3Ro
 
   Stellar 
   *  Stellar Site: https://www.stellar.org/ 
