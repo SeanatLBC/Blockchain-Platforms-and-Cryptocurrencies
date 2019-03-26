@@ -44,6 +44,8 @@ Among some of the top Permissioned DLT Platforms are the following:
 
 UTILITIES AND BLOCK EXPLORERS
 
+CoinMarketCap:  https://coinmarketcap.com/
+
 Wallets:
 
   *  Ledger Nano S (Recommended):  https://www.ledger.com/products/ledger-nano-s
@@ -83,13 +85,16 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/
 
   NEO  
+  *  NEO Site: https://neo.org/ 
   *  NEOScan:  https://neoscan.io/
 
-  Stellar  
+  Stellar 
+  *  Stellar Site: https://www.stellar.org/ 
   *  Stellar Dashboard:  https://dashboard.stellar.org/
   *  Stellar Explorer:  https://steexp.com/
 
   VeChain Thor  
+  *  VeChain Site:  https://www.vechain.org/
   *  VeForge:  https://explore.veforge.com/
   *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
 
