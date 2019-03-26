@@ -45,6 +45,11 @@ Among some of the top Permissioned DLT Platforms are the following:
 
 UTILITIES AND BLOCK EXPLORERS
 
+Wallets:
+
+  *  Ledger Nano S:  https://www.ledger.com/products/ledger-nano-s
+  *  Trezor:  https://trezor.io/
+
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
