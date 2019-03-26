@@ -87,6 +87,6 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
 
   EOS 
-  *  https://eostracker.io/ 
+  *  EOS Explorer:  https://eostracker.io/ 
   *  VIDEO - The Difference Between EOS and Ethereum:  https://www.youtube.com/watch?v=QxKqKVsLYLA&t=193s
   *  EOS Beginners - Anatomy of an EOS Account:  https://medium.com/@eosgo/eos-beginners-anatomy-of-an-eos-account-8bfff3e1716
