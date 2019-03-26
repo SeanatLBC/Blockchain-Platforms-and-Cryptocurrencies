@@ -49,6 +49,8 @@ Wallets:
 
   *  Ledger Nano S:  https://www.ledger.com/products/ledger-nano-s
   *  Trezor:  https://trezor.io/
+  
+  *  Cryptocurreny Wallets Wiki:  https://en.bitcoinwiki.org/wiki/Cryptocurrency_wallets_list
 
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
