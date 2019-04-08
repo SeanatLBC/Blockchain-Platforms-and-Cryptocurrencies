@@ -11,7 +11,7 @@ Among some of the top Blockchain Platfroms are the following:
 *  EOS (EOS)
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
-*  Zcash
+*  Zcash (ZEC)
 
 Among some of the top Distributed Ledger Technology Platforms are the following:
 
