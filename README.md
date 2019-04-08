@@ -11,6 +11,7 @@ Among some of the top Blockchain Platfroms are the following:
 *  EOS (EOS)
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
+*  Zcash
 
 Among some of the top Distributed Ledger Technology Platforms are the following:
 
@@ -105,3 +106,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VIDEO - The Difference Between EOS and Ethereum:  https://www.youtube.com/watch?v=QxKqKVsLYLA&t=193s
   *  EOS Beginners - Anatomy of an EOS Account:  https://medium.com/@eosgo/eos-beginners-anatomy-of-an-eos-account-8bfff3e1716
   *  Scatter (which is similar to MEW - but specific to EOS):  https://get-scatter.com/
+  
+  Zcash
+  *  Zcash Main:  https://z.cash/
+  *  Zcash - Read the Docs:  https://zcash.readthedocs.io/en/latest/
