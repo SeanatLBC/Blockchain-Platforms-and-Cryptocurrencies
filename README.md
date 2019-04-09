@@ -94,6 +94,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Stellar Site: https://www.stellar.org/ 
   *  Stellar Dashboard:  https://dashboard.stellar.org/
   *  Stellar Explorer:  https://steexp.com/
+  *  Stellar - How it Works Slideshow:  https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
 
   VeChain Thor  
   *  VeChain Site:  https://www.vechain.org/
