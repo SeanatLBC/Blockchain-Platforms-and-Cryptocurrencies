@@ -111,3 +111,4 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   Zcash
   *  Zcash Main:  https://z.cash/
   *  Zcash - Read the Docs:  https://zcash.readthedocs.io/en/latest/
+  *  Zcash Block Explorer:  https://explorer.zcha.in/
