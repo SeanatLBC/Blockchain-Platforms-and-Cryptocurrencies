@@ -109,6 +109,9 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Scatter (which is similar to MEW - but specific to EOS):  https://get-scatter.com/
   
   Zcash
+ZCash is a privacy driven cryptocurrency. It uses the Equihash as an algorithm, which is an asymmetric memory-hard Proof of Work algorithm based on the generalized birthday problem. It relies on high RAM requirements to bottleneck the generation of proofs and making ASIC development unfeasible. 
+
+ZCash uses  zero-knowledge Succinct Non-interactive Arguments of Knowledge (zk-SNARKs) to ensure that all information (sender, reciever, ammount) is encrypted, without the possibility of double-spending. The only information that is revealed regarding transactions is the time in which they take place.
   *  Zcash Main:  https://z.cash/
   *  Zcash - Read the Docs:  https://zcash.readthedocs.io/en/latest/
   *  Zcash Block Explorer:  https://explorer.zcha.in/
