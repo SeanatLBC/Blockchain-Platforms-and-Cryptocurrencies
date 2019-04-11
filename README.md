@@ -95,6 +95,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Stellar Dashboard:  https://dashboard.stellar.org/
   *  Stellar Explorer:  https://steexp.com/
   *  Stellar - How it Works Slideshow:  https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
+  *  Stellar ICO and Projects being tracked in antb123 Git:  https://github.com/antb123/stellarico
 
   VeChain Thor  
   *  VeChain Site:  https://www.vechain.org/
