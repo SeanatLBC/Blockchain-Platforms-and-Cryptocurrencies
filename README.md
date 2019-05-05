@@ -60,6 +60,10 @@ Main site - https://lists.hyperledger.org/g/main
 INTERLEDGER Main Site - https://interledger.org/
  *  Interledger Blog - https://medium.com/interledger-blog 
  
+POLKADOT
+  *  Main Site:  https://polkadot.network/
+  *  Join the Testnet:  https://github.com/paritytech/polkadot/blob/master/README.adoc
+ 
  Quant Overledger 
   *  Main Site: https://www.quant.network/
   *  Howto (Medium):  https://medium.com/@CryptoSeq/quant-networks-overledger-part-one-blockchain-fundamentals-db7fdb43058a
