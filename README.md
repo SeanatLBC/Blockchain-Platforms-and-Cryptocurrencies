@@ -1,5 +1,5 @@
 # Blockchan-Platforms
-It took 7 years from Bitcoins inception until Ethereum went Mainnet.  Now the technological floodgates are open with "trust" meeting "tech" meeting "social" meeting "big money" meeting "global movement" and on it goes......  We try to frame it up as certain directions take shape.
+It took 7 years from the Bitcoin Genesis Block until Ethereum went Mainnet.  Now the technological floodgates are open with "trust" meeting "tech" meeting "social" meeting "big money" meeting "global movement" and on it goes......  We try to frame it up as certain directions take shape.
 
 Among some of the top Cryptocurrencies and Blockchain Platfroms are the following:
 
