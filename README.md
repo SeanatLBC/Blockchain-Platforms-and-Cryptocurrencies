@@ -105,6 +105,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VeChain Site:  https://www.vechain.org/
   *  VeForge:  https://explore.veforge.com/
   *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
+  *  VEN to VET Swap on Nano (Reddit):  https://www.reddit.com/r/Vechain/comments/96gmdy/guide_swapping_vet_to_ledger/?utm_medium=android_app&utm_source=share
 
   EOS 
   *  EOS Site:  https://eos.io/
