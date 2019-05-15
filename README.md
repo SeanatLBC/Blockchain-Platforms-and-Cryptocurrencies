@@ -38,6 +38,8 @@ Among some of the top Permissioned DLT Platforms are the following:
  
  * Multichain:  https://www.multichain.com/
  
+ Blockchain Council - The Top 10 Blockchain Platforms You Need to Know:  https://www.blockchain-council.org/blockchain/top-10-blockchain-platforms-you-need-to-know-about/?utm_source=madmimi&utm_medium=email&utm_campaign=maymails
+ 
 
 UTILITIES AND BLOCK EXPLORERS
 
