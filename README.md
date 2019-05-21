@@ -102,7 +102,8 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Stellar Explorer:  https://steexp.com/
   *  Stellar - How it Works Slideshow:  https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
   *  Stellar ICO and Projects being tracked in antb123 Git:  https://github.com/antb123/stellarico
-
+  *  What is a Stellar Memo - must include when depositing:  https://support.blockchain.com/hc/en-us/articles/360018797312-Stellar-memos
+  
   VeChain Thor  
   *  VeChain Site:  https://www.vechain.org/
   *  VeForge:  https://explore.veforge.com/
