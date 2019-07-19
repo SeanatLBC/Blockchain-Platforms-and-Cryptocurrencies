@@ -3,6 +3,8 @@ It took 7 years from the Bitcoin Genesis Block until Ethereum went Mainnet.  Now
 
 Among some of the top Cryptocurrencies and Blockchain Platfroms are the following:
 
+Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/swlh/new-to-cryptocurrency-start-here-44cc5a6d6626
+
 *  Tezos (XTZ)
 *  NEO (NEO)
 *  Stellar (XLM)
