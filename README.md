@@ -83,6 +83,9 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Ethereum Etherescan: https://etherscan.io/
   *  Ethereum Ethplorer:  https://ethplorer.io/
   *  Ethereum Gas Station:  https://ethgasstation.info/
+  
+  *  EthHub - A Guide to PoS on ETH 2.0:  https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
+  *  EthHub - Article on ETH 2.0 Tokenomics:  https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
 
   Bitcoin
   
