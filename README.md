@@ -59,6 +59,9 @@ Wallets:
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
+  
+  Zcash Block Explorer
+  *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
 
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
