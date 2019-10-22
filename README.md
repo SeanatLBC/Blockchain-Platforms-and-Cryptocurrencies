@@ -59,6 +59,7 @@ Wallets:
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
+  *  Tezos Explained:  https://medium.com/@Melt_Dem/the-tezos-experiment-b97e124e5b38 
   
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
