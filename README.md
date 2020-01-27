@@ -23,6 +23,8 @@ Among some of the top Distributed Ledger Technology Platforms are the following:
 
 *  HEDERA HASHGRAPH - The Enterprise Grade Public - Network for Decentralized Applications:  https://www.hedera.com/ 
 
+*  Hedera - Jan 2020 Update:  https://www.hedera.com/blog/hedera-january-update-on-business-operations-and-saft-amendment-proposal
+
 *  HOLOCHAIN - What comes after Blockchain:  https://holochain.org/
 
 Among some of the top Permissioned DLT Platforms are the following:
