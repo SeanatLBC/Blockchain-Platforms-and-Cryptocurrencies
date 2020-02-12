@@ -126,6 +126,16 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VeForge:  https://explore.veforge.com/
   *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
   *  VEN to VET Swap on Nano (Reddit):  https://www.reddit.com/r/Vechain/comments/96gmdy/guide_swapping_vet_to_ledger/?utm_medium=android_app&utm_source=share
+  
+  *  Toolchain on VeChain:  https://www.vechain.com/product/toolchain
+
+You can also apply for a free trial or contact a consultant (if you scroll down the page) at Vechain and get a professional opinion. You could also email them at info@vechain.com.
+
+  *  Your Blockchain Supply Chain:  https://medium.com/@pr_11471/vechain-building-the-supply-chain-of-the-future-f91df2bdcaf7
+
+  *   Would Toolchain benefit my business:  https://vechain101.com/2019/05/10/toolchain-revolutionizes-your-business/
+
+  *  Examples of Vechain / Supply Chain Blockchain adoption:  https://vechain101.com/2019/05/01/5-examples-of-industry-adoption/
 
   EOS 
   *  EOS Site:  https://eos.io/
