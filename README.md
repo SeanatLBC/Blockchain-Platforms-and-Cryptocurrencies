@@ -63,8 +63,10 @@ Wallets:
  Tezos
   *  TezosScan: https://tzscan.io/tz1VHFxUuBhwopxC9YC9gm5s2MHBHLyCtvN1?default=baking
   *  The Tezos TQ Wiki:  https://learn.tqgroup.io/
+  *  An Intro to Tezos (easy follow):  https://www.publish0x.com/publish0x-posts/an-introduction-to-tezos-xodegk
   *  Tezos Explained:  https://medium.com/@Melt_Dem/the-tezos-experiment-b97e124e5b38 
   *  StakerDAO (Launched Jan20):  https://medium.com/stakerdao/how-stakerdao-works-d1b53cb1e346
+  *  Early release baking explorer:  https://tzkt.io/
   
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
