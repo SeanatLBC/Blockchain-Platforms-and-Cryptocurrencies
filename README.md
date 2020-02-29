@@ -146,6 +146,9 @@ You can also apply for a free trial or contact a consultant (if you scroll down 
   *  EOS Beginners - Anatomy of an EOS Account:  https://medium.com/@eosgo/eos-beginners-anatomy-of-an-eos-account-8bfff3e1716
   *  Scatter (which is similar to MEW - but specific to EOS):  https://get-scatter.com/
   
+  *  Telos Foundation:  https://www.telosfoundation.io/
+  *  Telos Explorer:  https://telos.eosx.io/
+  
   Zcash
   
 ZCash is a privacy driven cryptocurrency. It uses the Equihash as an algorithm, which is an asymmetric memory-hard Proof of Work algorithm based on the generalized birthday problem. It relies on high RAM requirements to bottleneck the generation of proofs and making ASIC development unfeasible. 
