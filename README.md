@@ -110,6 +110,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   NEO  
   *  NEO Site: https://neo.org/ 
   *  NEOScan:  https://neoscan.io/
+  *  SmartBNB (Cross chain bridge between BNB and NEO): https://smartbnb.net/
   
   Icon Network (ICX)
   *  Main Site:  https://icon.foundation/?lang=en
