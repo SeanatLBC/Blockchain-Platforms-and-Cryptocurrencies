@@ -131,6 +131,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  VEN to VET Swap on Nano (Reddit):  https://www.reddit.com/r/Vechain/comments/96gmdy/guide_swapping_vet_to_ledger/?utm_medium=android_app&utm_source=share
   
   *  Toolchain on VeChain:  https://www.vechain.com/product/toolchain
+  *  Vetoolchain (2020 - New improved BaaS tools for easy integration with Vechain):  https://www.vetoolchain.com/
 
 You can also apply for a free trial or contact a consultant (if you scroll down the page) at Vechain and get a professional opinion. You could also email them at info@vechain.com.
 
