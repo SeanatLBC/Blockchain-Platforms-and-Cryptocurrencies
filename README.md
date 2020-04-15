@@ -67,6 +67,7 @@ Wallets:
   *  Tezos Explained:  https://medium.com/@Melt_Dem/the-tezos-experiment-b97e124e5b38 
   *  StakerDAO (Launched Jan20):  https://medium.com/stakerdao/how-stakerdao-works-d1b53cb1e346
   *  Early release baking explorer:  https://tzkt.io/
+  *  Nautilus Cloud - a suite of Tezos Tools:  https://nautilus.cloud/
   
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
