@@ -68,6 +68,7 @@ Wallets:
   *  StakerDAO (Launched Jan20):  https://medium.com/stakerdao/how-stakerdao-works-d1b53cb1e346
   *  Early release baking explorer:  https://tzkt.io/
   *  Nautilus Cloud - a suite of Tezos Tools:  https://nautilus.cloud/
+  *  TEZOS BAKING Calculator:  https://www.tezos-nodes.com/calculator
   
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
