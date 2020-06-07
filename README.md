@@ -13,6 +13,7 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Icon (ICX)
 *  VeChain (VET)
 *  EOS (EOS)
+*  SonoCoin (SONO)
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
@@ -125,6 +126,11 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Stellar - How it Works Slideshow:  https://www.stellar.org/how-it-works/stellar-basics/#how-it-works
   *  Stellar ICO and Projects being tracked in antb123 Git:  https://github.com/antb123/stellarico
   *  What is a Stellar Memo - must include when depositing:  https://support.blockchain.com/hc/en-us/articles/360018797312-Stellar-memos
+  
+  SonoCoin
+  *  SonoCoin Wallet:  https://wallet.sonocoin.io/
+  *  SonoCoin Explorer:  https://explorer.sonocoin.io/transactions
+  *  SonoCoin Editor:   https://ceditor.sonocoin.io/editor
   
   VeChain Thor  
   *  VeChain Site:  https://www.vechain.org/
