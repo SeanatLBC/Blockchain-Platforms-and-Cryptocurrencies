@@ -72,7 +72,8 @@ Wallets:
   *  TEZOS BAKING Calculator:  https://www.tezos-nodes.com/calculator
   
   Zcash Block Explorer
-  *  Zchain:  https://explorer.zcha.in/statistics/undefinedstatistics/[slug]
+  *  Zchain:  https://explorer.zcha.in/
+  
 
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
