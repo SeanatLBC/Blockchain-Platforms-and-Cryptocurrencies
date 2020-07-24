@@ -13,7 +13,7 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Icon (ICX)
 *  VeChain (VET)
 *  EOS (EOS)
-*  SonoCoin (SONO)
+*  Cosmos (ATOM)
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
