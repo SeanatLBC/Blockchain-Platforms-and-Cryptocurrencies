@@ -18,6 +18,8 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
 
+What is Decentralization (by vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+
 Among some of the top Distributed Ledger Technology Platforms are the following:
 
 *  IOTA - The Internet of Things, Redefining Trust, Value and Ownership:  https://www.iota.org/
