@@ -109,6 +109,9 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   
   NFTs - 2020 should be the breakout year for Non-Fungible Tokens (primarily on Ethereum).  Track them here:  https://nonfungible.com/
   
+Interoperability:
+  
+  *  GaaS and CaaS:  Gas as a Service and Confirmation as a Service - REN:  https://medium.com/renproject/gatewayjs-caas-and-gaas-7e03817d8034
 
   Bitcoin
   
