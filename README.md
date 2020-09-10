@@ -30,6 +30,8 @@ Among some of the top Distributed Ledger Technology Platforms are the following:
 
 *  HOLOCHAIN - What comes after Blockchain:  https://holochain.org/
 
+*  How to claim FLARE (from XRP):  https://flare.ghost.io/claiming-spark-faq/#:~:text=If%20you%20self%20custody%2C%20the,months%20of%20the%20snapshot%20date.
+
 Among some of the top Permissioned DLT Platforms are the following:
 
  * The Linux Foundation Projects:
