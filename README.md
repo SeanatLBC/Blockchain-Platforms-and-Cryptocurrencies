@@ -7,6 +7,7 @@ Bitinfocharts - see stats on top chains:  https://bitinfocharts.com/comparison/t
 
 Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/swlh/new-to-cryptocurrency-start-here-44cc5a6d6626
 
+*  Cardano (ADA)
 *  Tezos (XTZ)
 *  NEO (NEO)
 *  Stellar (XLM)
@@ -78,6 +79,18 @@ Wallets:
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/
   
+Cardano:
+Main site - https://cardano.org/
+
+  *  Cardano Forum - https://forum.cardano.org/c/english/developers/29
+
+  *  Cardano Block Explorer:  https://explorer.cardano.org/en
+
+  *  Daedalus Wallet - top Cardano Wallet: https://daedaluswallet.io/
+
+  *  Workshop Maybe - A Cardano Marlowe Starter Kit (How to Videos and Links).  Marlowe uses Blockly to allow "non-developers" to create smart contracts: https://workshopmaybe.com/learn/cardano-starter-kits/starter-kit-001/starter-kit-001b/
+  
+  *  Marlowe Playground - try and make a smart contract in Blockly:  https://alpha.marlowe.iohkdev.io/#/blockly
 
 HYPERLEDGER
 Main site - https://lists.hyperledger.org/g/main
