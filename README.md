@@ -19,6 +19,13 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
 
+Newer Platforms
+
+*  Chromia (CHR) - Relational Blockchain for the Real World:  https://chromia.com/
+  *  Chromia Whitepaper:  https://chromia.com/documents/Chromia-_-Platform-white-paper2019.pdf
+
+  *  Hedgit - Options with non-custodial storage: https://hedget.com/
+
 What is Decentralization (by vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
 Among some of the top Distributed Ledger Technology Platforms are the following:
