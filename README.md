@@ -110,6 +110,9 @@ INTERLEDGER Main Site - https://interledger.org/
 POLKADOT
   *  Main Site:  https://polkadot.network/
   *  Join the Testnet:  https://github.com/paritytech/polkadot/blob/master/README.adoc
+  *  Obtaining a Parachain Slot on Polkadot:  https://polkadot.network/obtaining-a-parachain-slot-on-polkadot/
+  
+  *  Understaning the Polkadot relationship with Kusama:  https://medium.com/polkadot-network/kusama-polkadot-comparing-the-cousins-170e4fe6c280
  
  Quant Overledger 
   *  Main Site: https://www.quant.network/
