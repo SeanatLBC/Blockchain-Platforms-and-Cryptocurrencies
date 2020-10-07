@@ -19,6 +19,8 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
 
+Market Sentiment - the Fear and Greed Index:  https://alternative.me/crypto/fear-and-greed-index/
+
 Newer Platforms
 
 *  Chromia (CHR) - Relational Blockchain for the Real World:  https://chromia.com/
