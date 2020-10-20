@@ -113,6 +113,7 @@ POLKADOT
   *  Main Site:  https://polkadot.network/
   *  Join the Testnet:  https://github.com/paritytech/polkadot/blob/master/README.adoc
   *  Obtaining a Parachain Slot on Polkadot:  https://polkadot.network/obtaining-a-parachain-slot-on-polkadot/
+  *  Polkadot Wiki:  https://wiki.polkadot.network/docs/en/learn-launch
   
   *  Understaning the Polkadot relationship with Kusama:  https://medium.com/polkadot-network/kusama-polkadot-comparing-the-cousins-170e4fe6c280
  
