@@ -98,6 +98,8 @@ Main site - https://cardano.org/
   *  Cardano Block Explorer:  https://explorer.cardano.org/en
 
   *  Daedalus Wallet - top Cardano Wallet: https://daedaluswallet.io/
+  
+  *  Actus Smart Contract in Marlowe:  https://iohk.io/en/blog/posts/2020/10/13/actus-financial-smart-contracts-in-marlowe/
 
   *  Workshop Maybe - A Cardano Marlowe Starter Kit (How to Videos and Links).  Marlowe uses Blockly to allow "non-developers" to create smart contracts: https://workshopmaybe.com/learn/cardano-starter-kits/starter-kit-001/starter-kit-001b/
   
