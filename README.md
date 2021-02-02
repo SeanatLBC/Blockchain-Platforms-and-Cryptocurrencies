@@ -29,6 +29,7 @@ Newer Platforms
   *  Chromia Whitepaper:  https://chromia.com/documents/Chromia-_-Platform-white-paper2019.pdf
 
   *  Hedgit - Options with non-custodial storage: https://hedget.com/
+  *  Mina:  https://gauntlet.network/reports/mina
 
 What is Decentralization (by vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
