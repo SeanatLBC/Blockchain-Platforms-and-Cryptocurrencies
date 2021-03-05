@@ -20,6 +20,7 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
 *  Zcash (ZEC)
+*  Energy Web Token (EWT)
 
 Market Sentiment - the Fear and Greed Index:  https://alternative.me/crypto/fear-and-greed-index/
 
@@ -30,6 +31,9 @@ Newer Platforms
 
   *  Hedgit - Options with non-custodial storage: https://hedget.com/
   *  Mina:  https://gauntlet.network/reports/mina
+
+*  Energy Web:  https://energyweb.org/technology/token/
+   *  Good Medium article on Energy Web:  https://medium.com/energy-web-insights/the-energy-transition-is-at-stake-ec9f4ececd85
 
 What is Decentralization (by vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
