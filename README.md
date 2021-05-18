@@ -183,6 +183,7 @@ Interoperability:
   *  VeForge:  https://explore.veforge.com/
   *  VEN to VET Swap:  https://huobiglobal.zendesk.com/hc/en-us/articles/360000131862-VEN-Chain-Swap
   *  VEN to VET Swap on Nano (Reddit):  https://www.reddit.com/r/Vechain/comments/96gmdy/guide_swapping_vet_to_ledger/?utm_medium=android_app&utm_source=share
+  *  VEN to VET - swap with VechainThor wallet on phone:  https://vechaininsider.com/guides/a-complete-guide-to-the-vechain-ven-to-vet-token-swap/
   
   *  Toolchain on VeChain:  https://www.vechain.com/product/toolchain
   *  Vetoolchain (2020 - New improved BaaS tools for easy integration with Vechain):  https://www.vetoolchain.com/
