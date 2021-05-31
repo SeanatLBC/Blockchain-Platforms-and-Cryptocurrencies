@@ -5,6 +5,8 @@ Among some of the top Cryptocurrencies and Blockchain Platfroms are the followin
 
 Bitinfocharts - see stats on top chains:  https://bitinfocharts.com/comparison/transactions-btc-eth-ltc-bch-xrp.html#3m
 
+Web3:  https://blockchainhub.net/web3-decentralized-web/
+
 Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/swlh/new-to-cryptocurrency-start-here-44cc5a6d6626
 
 *  Cardano (ADA)
