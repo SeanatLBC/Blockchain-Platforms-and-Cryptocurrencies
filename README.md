@@ -37,6 +37,8 @@ Newer Platforms
 *  Energy Web:  https://energyweb.org/technology/token/
    *  Good Medium article on Energy Web:  https://medium.com/energy-web-insights/the-energy-transition-is-at-stake-ec9f4ececd85
 
+*  Theta - Edge Node Video Streaming:  https://www.thetatoken.org/
+
 What is Decentralization (by vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
 Among some of the top Distributed Ledger Technology Platforms are the following:
