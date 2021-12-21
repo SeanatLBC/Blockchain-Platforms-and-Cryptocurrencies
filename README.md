@@ -11,6 +11,7 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 
 *  Cardano (ADA)
 *  Tezos (XTZ)
+*  Ripple (XRP)
 *  Polkadot (DOT)
 *  Chainlink (LINK)
 *  NEO (NEO)
