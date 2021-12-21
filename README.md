@@ -98,6 +98,10 @@ Wallets:
   
   Zcash Block Explorer
   *  Zchain:  https://explorer.zcha.in/
+
+Ripple (XRP):
+  *  Prepping the MetaMask (for Songbird):  https://docs.flare.network/en/tutorials/wallets/how-to-access-flare-network-with-metamask
+  *  Flare Metrics:  https://flaremetrics.io/ftso
   
 Cardano:
 Main site - https://cardano.org/
