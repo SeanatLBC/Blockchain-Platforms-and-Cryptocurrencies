@@ -22,6 +22,7 @@ Beginners Guide to Blockchain and Crypto (quick easy read):  https://medium.com/
 *  Cosmos (ATOM)
 *  Ethereum (ETH)
 *  Bitcoin (BTC)
+*  BASE Protocol
 *  Zcash (ZEC)
 *  Energy Web Token (EWT)
 
