@@ -1,3 +1,8 @@
+
+Coinbase Market Report - 2024:  https://www.coinbase.com/institutional/research-insights/research/market-intelligence/2024-crypto-market-outlook
+
+The Long Path [Below are developments from the previous two cycles]
+
 # Blockchan-Platforms
 It took 7 years from the Bitcoin Genesis Block until Ethereum went Mainnet.  Now the technological floodgates are open with "trust" meeting "tech" meeting "social" meeting "big money" meeting "global movement" and on it goes......  We try to frame it up as certain directions take shape.
 
